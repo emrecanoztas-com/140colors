@@ -1,0 +1,841 @@
+@charset 'utf-8';
+.black {
+  background-color: #000000;
+}
+.black-text {
+  color: #000000;
+}
+.navy {
+  background-color: #000080;
+}
+.navy-text {
+  color: #000080;
+}
+.darkblue {
+  background-color: #00008B;
+}
+.darkblue-text {
+  color: #00008B;
+}
+.mediumblue {
+  background-color: #0000CD;
+}
+.mediumblue-text {
+  color: #0000CD;
+}
+.blue {
+  background-color: #0000FF;
+}
+.blue-text {
+  color: #0000FF;
+}
+.darkgreen {
+  background-color: #006400;
+}
+.darkgreen-text {
+  color: #006400;
+}
+.green {
+  background-color: #008000;
+}
+.green-text {
+  color: #008000;
+}
+.teal {
+  background-color: #008080;
+}
+.teal-text {
+  color: #008080;
+}
+.darkcyan {
+  background-color: #008B8B;
+}
+.darkcyan-text {
+  color: #008B8B;
+}
+.deepskyblue {
+  background-color: #00BFFF;
+}
+.deepskyblue-text {
+  color: #00BFFF;
+}
+.darkturquoise {
+  background-color: #00CED1;
+}
+.darkturquoise-text {
+  color: #00CED1;
+}
+.mediumspringgreen {
+  background-color: #00FA9A;
+}
+.mediumspringgreen-text {
+  color: #00FA9A;
+}
+.lime {
+  background-color: #00FF00;
+}
+.lime-text {
+  color: #00FF00;
+}
+.springgreen {
+  background-color: #00FF7F;
+}
+.springgreen-text {
+  color: #00FF7F;
+}
+.aqua {
+  background-color: #00FFFF;
+}
+.aqua-text {
+  color: #00FFFF;
+}
+.cyan {
+  background-color: #00FFFF;
+}
+.cyan-text {
+  color: #00FFFF;
+}
+.midnightblue {
+  background-color: #191970;
+}
+.midnightblue-text {
+  color: #191970;
+}
+.dodgerblue {
+  background-color: #1E90FF;
+}
+.dodgerblue-text {
+  color: #1E90FF;
+}
+.lightseagreen {
+  background-color: #20B2AA;
+}
+.lightseagreen-text {
+  color: #20B2AA;
+}
+.forestgreen {
+  background-color: #228B22;
+}
+.forestgreen-text {
+  color: #228B22;
+}
+.seagreen {
+  background-color: #2E8B57;
+}
+.seagreen-text {
+  color: #2E8B57;
+}
+.darkslategrey {
+  background-color: #2F4F4F;
+}
+.darkslategrey-text {
+  color: #2F4F4F;
+}
+.limegreen {
+  background-color: #32CD32;
+}
+.limegreen-text {
+  color: #32CD32;
+}
+.mediumseagreen {
+  background-color: #3CB371;
+}
+.mediumseagreen-text {
+  color: #3CB371;
+}
+.turquoise {
+  background-color: #40E0D0;
+}
+.turquoise-text {
+  color: #40E0D0;
+}
+.royalblue {
+  background-color: #4169E1;
+}
+.royalblue-text {
+  color: #4169E1;
+}
+.steelblue {
+  background-color: #4682B4;
+}
+.steelblue-text {
+  color: #4682B4;
+}
+.darkslateblue {
+  background-color: #483D8B;
+}
+.darkslateblue-text {
+  color: #483D8B;
+}
+.mediumturquoise {
+  background-color: #48D1CC;
+}
+.mediumturquoise-text {
+  color: #48D1CC;
+}
+.indigo {
+  background-color: #4B0082;
+}
+.indigo-text {
+  color: #4B0082;
+}
+.darkolivegreen {
+  background-color: #556B2F;
+}
+.darkolivegreen-text {
+  color: #556B2F;
+}
+.cadetblue {
+  background-color: #5F9EA0;
+}
+.cadetblue-text {
+  color: #5F9EA0;
+}
+.cornflowerblue {
+  background-color: #6495ED;
+}
+.cornflowerblue-text {
+  color: #6495ED;
+}
+.rebeccapurple {
+  background-color: #663399;
+}
+.rebeccapurple-text {
+  color: #663399;
+}
+.mediumaquamarine {
+  background-color: #66CDAA;
+}
+.mediumaquamarine-text {
+  color: #66CDAA;
+}
+.dimgrey {
+  background-color: #696969;
+}
+.dimgrey-text {
+  color: #696969;
+}
+.slateblue {
+  background-color: #6A5ACD;
+}
+.slateblue-text {
+  color: #6A5ACD;
+}
+.olivedrab {
+  background-color: #6B8E23;
+}
+.olivedrab-text {
+  color: #6B8E23;
+}
+.slategrey {
+  background-color: #708090;
+}
+.slategrey-text {
+  color: #708090;
+}
+.lightslategrey {
+  background-color: #778899;
+}
+.lightslategrey-text {
+  color: #778899;
+}
+.mediumslateblue {
+  background-color: #7B68EE;
+}
+.mediumslateblue-text {
+  color: #7B68EE;
+}
+.lawngreen {
+  background-color: #7CFC00;
+}
+.lawngreen-text {
+  color: #7CFC00;
+}
+.chartreuse {
+  background-color: #7FFF00;
+}
+.chartreuse-text {
+  color: #7FFF00;
+}
+.aquamarine {
+  background-color: #7FFFD4;
+}
+.aquamarine-text {
+  color: #7FFFD4;
+}
+.maroon {
+  background-color: #800000;
+}
+.maroon-text {
+  color: #800000;
+}
+.purple {
+  background-color: #800080;
+}
+.purple-text {
+  color: #800080;
+}
+.olive {
+  background-color: #808000;
+}
+.olive-text {
+  color: #808000;
+}
+.grey {
+  background-color: #808080;
+}
+.grey-text {
+  color: #808080;
+}
+.skyblue {
+  background-color: #87CEEB;
+}
+.skyblue-text {
+  color: #87CEEB;
+}
+.lightskyblue {
+  background-color: #87CEFA;
+}
+.lightskyblue-text {
+  color: #87CEFA;
+}
+.blueviolet {
+  background-color: #8A2BE2;
+}
+.blueviolet-text {
+  color: #8A2BE2;
+}
+.darkred {
+  background-color: #8B0000;
+}
+.darkred-text {
+  color: #8B0000;
+}
+.darkmagenta {
+  background-color: #8B008B;
+}
+.darkmagenta-text {
+  color: #8B008B;
+}
+.saddlebrown {
+  background-color: #8B4513;
+}
+.saddlebrown-text {
+  color: #8B4513;
+}
+.darkseagreen {
+  background-color: #8FBC8F;
+}
+.darkseagreen-text {
+  color: #8FBC8F;
+}
+.lightgreen {
+  background-color: #90EE90;
+}
+.lightgreen-text {
+  color: #90EE90;
+}
+.mediumpurple {
+  background-color: #9370DB;
+}
+.mediumpurple-text {
+  color: #9370DB;
+}
+.darkviolet {
+  background-color: #9400D3;
+}
+.darkviolet-text {
+  color: #9400D3;
+}
+.palegreen {
+  background-color: #98FB98;
+}
+.palegreen-text {
+  color: #98FB98;
+}
+.darkorchid {
+  background-color: #9932CC;
+}
+.darkorchid-text {
+  color: #9932CC;
+}
+.yellowgreen {
+  background-color: #9ACD32;
+}
+.yellowgreen-text {
+  color: #9ACD32;
+}
+.sienna {
+  background-color: #A0522D;
+}
+.sienna-text {
+  color: #A0522D;
+}
+.brown {
+  background-color: #A52A2A;
+}
+.brown-text {
+  color: #A52A2A;
+}
+.darkgrey {
+  background-color: #A9A9A9;
+}
+.darkgrey-text {
+  color: #A9A9A9;
+}
+.lightblue {
+  background-color: #ADD8E6;
+}
+.lightblue-text {
+  color: #ADD8E6;
+}
+.greenyellow {
+  background-color: #ADFF2F;
+}
+.greenyellow-text {
+  color: #ADFF2F;
+}
+.paleturquoise {
+  background-color: #AFEEEE;
+}
+.paleturquoise-text {
+  color: #AFEEEE;
+}
+.lightsteelblue {
+  background-color: #B0C4DE;
+}
+.lightsteelblue-text {
+  color: #B0C4DE;
+}
+.powderblue {
+  background-color: #B0E0E6;
+}
+.powderblue-text {
+  color: #B0E0E6;
+}
+.firebrick {
+  background-color: #B22222;
+}
+.firebrick-text {
+  color: #B22222;
+}
+.darkgoldenrod {
+  background-color: #B8860B;
+}
+.darkgoldenrod-text {
+  color: #B8860B;
+}
+.mediumorchid {
+  background-color: #BA55D3;
+}
+.mediumorchid-text {
+  color: #BA55D3;
+}
+.rosybrown {
+  background-color: #BC8F8F;
+}
+.rosybrown-text {
+  color: #BC8F8F;
+}
+.darkkhaki {
+  background-color: #BDB76B;
+}
+.darkkhaki-text {
+  color: #BDB76B;
+}
+.silver {
+  background-color: #C0C0C0;
+}
+.silver-text {
+  color: #C0C0C0;
+}
+.mediumvioletred {
+  background-color: #C71585;
+}
+.mediumvioletred-text {
+  color: #C71585;
+}
+.indianred {
+  background-color: #CD5C5C;
+}
+.indianred-text {
+  color: #CD5C5C;
+}
+.peru {
+  background-color: #CD853F;
+}
+.peru-text {
+  color: #CD853F;
+}
+.chocolate {
+  background-color: #D2691E;
+}
+.chocolate-text {
+  color: #D2691E;
+}
+.tan {
+  background-color: #D2B48C;
+}
+.tan-text {
+  color: #D2B48C;
+}
+.lightgrey {
+  background-color: #D3D3D3;
+}
+.lightgrey-text {
+  color: #D3D3D3;
+}
+.thistle {
+  background-color: #D8BFD8;
+}
+.thistle-text {
+  color: #D8BFD8;
+}
+.orchid {
+  background-color: #DA70D6;
+}
+.orchid-text {
+  color: #DA70D6;
+}
+.goldenrod {
+  background-color: #DAA520;
+}
+.goldenrod-text {
+  color: #DAA520;
+}
+.palevioletred {
+  background-color: #DB7093;
+}
+.palevioletred-text {
+  color: #DB7093;
+}
+.crimson {
+  background-color: #DC143C;
+}
+.crimson-text {
+  color: #DC143C;
+}
+.gainsboro {
+  background-color: #DCDCDC;
+}
+.gainsboro-text {
+  color: #DCDCDC;
+}
+.plum {
+  background-color: #DDA0DD;
+}
+.plum-text {
+  color: #DDA0DD;
+}
+.burlywood {
+  background-color: #DEB887;
+}
+.burlywood-text {
+  color: #DEB887;
+}
+.lightcyan {
+  background-color: #E0FFFF;
+}
+.lightcyan-text {
+  color: #E0FFFF;
+}
+.lavender {
+  background-color: #E6E6FA;
+}
+.lavender-text {
+  color: #E6E6FA;
+}
+.darksalmon {
+  background-color: #E9967A;
+}
+.darksalmon-text {
+  color: #E9967A;
+}
+.violet {
+  background-color: #EE82EE;
+}
+.violet-text {
+  color: #EE82EE;
+}
+.palegoldenrod {
+  background-color: #EEE8AA;
+}
+.palegoldenrod-text {
+  color: #EEE8AA;
+}
+.lightcoral {
+  background-color: #F08080;
+}
+.lightcoral-text {
+  color: #F08080;
+}
+.khaki {
+  background-color: #F0E68C;
+}
+.khaki-text {
+  color: #F0E68C;
+}
+.aliceblue {
+  background-color: #F0F8FF;
+}
+.aliceblue-text {
+  color: #F0F8FF;
+}
+.honeydew {
+  background-color: #F0FFF0;
+}
+.honeydew-text {
+  color: #F0FFF0;
+}
+.azure {
+  background-color: #F0FFFF;
+}
+.azure-text {
+  color: #F0FFFF;
+}
+.sandybrown {
+  background-color: #F4A460;
+}
+.sandybrown-text {
+  color: #F4A460;
+}
+.wheat {
+  background-color: #F5DEB3;
+}
+.wheat-text {
+  color: #F5DEB3;
+}
+.beige {
+  background-color: #F5F5DC;
+}
+.beige-text {
+  color: #F5F5DC;
+}
+.whitesmoke {
+  background-color: #F5F5F5;
+}
+.whitesmoke-text {
+  color: #F5F5F5;
+}
+.mintcream {
+  background-color: #F5FFFA;
+}
+.mintcream-text {
+  color: #F5FFFA;
+}
+.ghostwhite {
+  background-color: #F8F8FF;
+}
+.ghostwhite-text {
+  color: #F8F8FF;
+}
+.salmon {
+  background-color: #FA8072;
+}
+.salmon-text {
+  color: #FA8072;
+}
+.antiquewhite {
+  background-color: #FAEBD7;
+}
+.antiquewhite-text {
+  color: #FAEBD7;
+}
+.linen {
+  background-color: #FAF0E6;
+}
+.linen-text {
+  color: #FAF0E6;
+}
+.lightgoldenrodyellow {
+  background-color: #FAFAD2;
+}
+.lightgoldenrodyellow-text {
+  color: #FAFAD2;
+}
+.oldlace {
+  background-color: #FDF5E6;
+}
+.oldlace-text {
+  color: #FDF5E6;
+}
+.red {
+  background-color: #FF0000;
+}
+.red-text {
+  color: #FF0000;
+}
+.fuchsia {
+  background-color: #FF00FF;
+}
+.fuchsia-text {
+  color: #FF00FF;
+}
+.magenta {
+  background-color: #FF00FF;
+}
+.magenta-text {
+  color: #FF00FF;
+}
+.orangered {
+  background-color: #FF4500;
+}
+.orangered-text {
+  color: #FF4500;
+}
+.tomato {
+  background-color: #FF6347;
+}
+.tomato-text {
+  color: #FF6347;
+}
+.hotpink {
+  background-color: #FF69B4;
+}
+.hotpink-text {
+  color: #FF69B4;
+}
+.coral {
+  background-color: #FF7F50;
+}
+.coral-text {
+  color: #FF7F50;
+}
+.darkorange {
+  background-color: #FF8C00;
+}
+.darkorange-text {
+  color: #FF8C00;
+}
+.lightsalmon {
+  background-color: #FFA07A;
+}
+.lightsalmon-text {
+  color: #FFA07A;
+}
+.orange {
+  background-color: #FFA500;
+}
+.orange-text {
+  color: #FFA500;
+}
+.lightpink {
+  background-color: #FFB6C1;
+}
+.lightpink-text {
+  color: #FFB6C1;
+}
+.pink {
+  background-color: #FFC0CB;
+}
+.pink-text {
+  color: #FFC0CB;
+}
+.gold {
+  background-color: #FFD700;
+}
+.gold-text {
+  color: #FFD700;
+}
+.peachpuff {
+  background-color: #FFDAB9;
+}
+.peachpuff-text {
+  color: #FFDAB9;
+}
+.navajowhite {
+  background-color: #FFDEAD;
+}
+.navajowhite-text {
+  color: #FFDEAD;
+}
+.moccasin {
+  background-color: #FFE4B5;
+}
+.moccasin-text {
+  color: #FFE4B5;
+}
+.bisque {
+  background-color: #FFE4C4;
+}
+.bisque-text {
+  color: #FFE4C4;
+}
+.mistyrose {
+  background-color: #FFE4E1;
+}
+.mistyrose-text {
+  color: #FFE4E1;
+}
+.blanchedalmond {
+  background-color: #FFEBCD;
+}
+.blanchedalmond-text {
+  color: #FFEBCD;
+}
+.papayawhip {
+  background-color: #FFEFD5;
+}
+.papayawhip-text {
+  color: #FFEFD5;
+}
+.lavenderblush {
+  background-color: #FFF0F5;
+}
+.lavenderblush-text {
+  color: #FFF0F5;
+}
+.seashell {
+  background-color: #FFF5EE;
+}
+.seashell-text {
+  color: #FFF5EE;
+}
+.cornsilk {
+  background-color: #FFF8DC;
+}
+.cornsilk-text {
+  color: #FFF8DC;
+}
+.lemonchiffon {
+  background-color: #FFFACD;
+}
+.lemonchiffon-text {
+  color: #FFFACD;
+}
+.floralwhite {
+  background-color: #FFFAF0;
+}
+.floralwhite-text {
+  color: #FFFAF0;
+}
+.snow {
+  background-color: #FFFAFA;
+}
+.snow-text {
+  color: #FFFAFA;
+}
+.yellow {
+  background-color: #FFFF00;
+}
+.yellow-text {
+  color: #FFFF00;
+}
+.lightyellow {
+  background-color: #FFFFE0;
+}
+.lightyellow-text {
+  color: #FFFFE0;
+}
+.ivory {
+  background-color: #FFFFF0;
+}
+.ivory-text {
+  color: #FFFFF0;
+}
+.white {
+  background-color: #FFFFFF;
+}
+.white-text {
+  color: #FFFFFF;
+}
