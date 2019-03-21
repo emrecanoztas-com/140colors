@@ -12,13 +12,13 @@ gulp.task('default', function() {
 
 // TASK: LESS
 gulp.task('less', function() {
-    gulp.src('./styles/src/cool-colorz.less')
-    .pipe(plumber())
-    .pipe(less())
-    .pipe(gulp.dest('./styles/dist/'))
-    .pipe(cssmin())
-    .pipe(rename({
-        suffix: '.min'
-    }))
-    .pipe(gulp.dest('./styles/dist/'));
+    gulp.src('src/cool-colorz.less')
+        .pipe(plumber())
+        .pipe(less())
+        .pipe(gulp.dest('dist'))
+        .pipe(cssmin())
+        .pipe(rename({
+            suffix: '.min'
+        }))
+        .pipe(gulp.dest('dist'));
 });
