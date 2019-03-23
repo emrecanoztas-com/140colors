@@ -1,0 +1,12 @@
+@charset 'utf-8';
+@import '_variables';
+
+@each $colorname, $colorcode in $colors {
+    .#{$colorname} {
+        background-color: $colorcode !important;
+    }
+
+    .#{$colorname}-text {
+        color: $colorcode !important;
+    }
+}

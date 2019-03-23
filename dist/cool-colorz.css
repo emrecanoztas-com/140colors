@@ -1,841 +1,839 @@
-@charset 'utf-8';
 .black {
-  background-color: #000000;
-}
+  background-color: #000000 !important; }
+
 .black-text {
-  color: #000000;
-}
+  color: #000000 !important; }
+
 .navy {
-  background-color: #000080;
-}
+  background-color: #000080 !important; }
+
 .navy-text {
-  color: #000080;
-}
+  color: #000080 !important; }
+
 .darkblue {
-  background-color: #00008B;
-}
+  background-color: #00008B !important; }
+
 .darkblue-text {
-  color: #00008B;
-}
+  color: #00008B !important; }
+
 .mediumblue {
-  background-color: #0000CD;
-}
+  background-color: #0000CD !important; }
+
 .mediumblue-text {
-  color: #0000CD;
-}
+  color: #0000CD !important; }
+
 .blue {
-  background-color: #0000FF;
-}
+  background-color: #0000FF !important; }
+
 .blue-text {
-  color: #0000FF;
-}
+  color: #0000FF !important; }
+
 .darkgreen {
-  background-color: #006400;
-}
+  background-color: #006400 !important; }
+
 .darkgreen-text {
-  color: #006400;
-}
+  color: #006400 !important; }
+
 .green {
-  background-color: #008000;
-}
+  background-color: #008000 !important; }
+
 .green-text {
-  color: #008000;
-}
+  color: #008000 !important; }
+
 .teal {
-  background-color: #008080;
-}
+  background-color: #008080 !important; }
+
 .teal-text {
-  color: #008080;
-}
+  color: #008080 !important; }
+
 .darkcyan {
-  background-color: #008B8B;
-}
+  background-color: #008B8B !important; }
+
 .darkcyan-text {
-  color: #008B8B;
-}
+  color: #008B8B !important; }
+
 .deepskyblue {
-  background-color: #00BFFF;
-}
+  background-color: #00BFFF !important; }
+
 .deepskyblue-text {
-  color: #00BFFF;
-}
+  color: #00BFFF !important; }
+
 .darkturquoise {
-  background-color: #00CED1;
-}
+  background-color: #00CED1 !important; }
+
 .darkturquoise-text {
-  color: #00CED1;
-}
+  color: #00CED1 !important; }
+
 .mediumspringgreen {
-  background-color: #00FA9A;
-}
+  background-color: #00FA9A !important; }
+
 .mediumspringgreen-text {
-  color: #00FA9A;
-}
+  color: #00FA9A !important; }
+
 .lime {
-  background-color: #00FF00;
-}
+  background-color: #00FF00 !important; }
+
 .lime-text {
-  color: #00FF00;
-}
+  color: #00FF00 !important; }
+
 .springgreen {
-  background-color: #00FF7F;
-}
+  background-color: #00FF7F !important; }
+
 .springgreen-text {
-  color: #00FF7F;
-}
+  color: #00FF7F !important; }
+
 .aqua {
-  background-color: #00FFFF;
-}
+  background-color: #00FFFF !important; }
+
 .aqua-text {
-  color: #00FFFF;
-}
+  color: #00FFFF !important; }
+
 .cyan {
-  background-color: #00FFFF;
-}
+  background-color: #00FFFF !important; }
+
 .cyan-text {
-  color: #00FFFF;
-}
+  color: #00FFFF !important; }
+
 .midnightblue {
-  background-color: #191970;
-}
+  background-color: #191970 !important; }
+
 .midnightblue-text {
-  color: #191970;
-}
+  color: #191970 !important; }
+
 .dodgerblue {
-  background-color: #1E90FF;
-}
+  background-color: #1E90FF !important; }
+
 .dodgerblue-text {
-  color: #1E90FF;
-}
+  color: #1E90FF !important; }
+
 .lightseagreen {
-  background-color: #20B2AA;
-}
+  background-color: #20B2AA !important; }
+
 .lightseagreen-text {
-  color: #20B2AA;
-}
+  color: #20B2AA !important; }
+
 .forestgreen {
-  background-color: #228B22;
-}
+  background-color: #228B22 !important; }
+
 .forestgreen-text {
-  color: #228B22;
-}
+  color: #228B22 !important; }
+
 .seagreen {
-  background-color: #2E8B57;
-}
+  background-color: #2E8B57 !important; }
+
 .seagreen-text {
-  color: #2E8B57;
-}
+  color: #2E8B57 !important; }
+
 .darkslategrey {
-  background-color: #2F4F4F;
-}
+  background-color: #2F4F4F !important; }
+
 .darkslategrey-text {
-  color: #2F4F4F;
-}
+  color: #2F4F4F !important; }
+
 .limegreen {
-  background-color: #32CD32;
-}
+  background-color: #32CD32 !important; }
+
 .limegreen-text {
-  color: #32CD32;
-}
+  color: #32CD32 !important; }
+
 .mediumseagreen {
-  background-color: #3CB371;
-}
+  background-color: #3CB371 !important; }
+
 .mediumseagreen-text {
-  color: #3CB371;
-}
+  color: #3CB371 !important; }
+
 .turquoise {
-  background-color: #40E0D0;
-}
+  background-color: #40E0D0 !important; }
+
 .turquoise-text {
-  color: #40E0D0;
-}
+  color: #40E0D0 !important; }
+
 .royalblue {
-  background-color: #4169E1;
-}
+  background-color: #4169E1 !important; }
+
 .royalblue-text {
-  color: #4169E1;
-}
+  color: #4169E1 !important; }
+
 .steelblue {
-  background-color: #4682B4;
-}
+  background-color: #4682B4 !important; }
+
 .steelblue-text {
-  color: #4682B4;
-}
+  color: #4682B4 !important; }
+
 .darkslateblue {
-  background-color: #483D8B;
-}
+  background-color: #483D8B !important; }
+
 .darkslateblue-text {
-  color: #483D8B;
-}
+  color: #483D8B !important; }
+
 .mediumturquoise {
-  background-color: #48D1CC;
-}
+  background-color: #48D1CC !important; }
+
 .mediumturquoise-text {
-  color: #48D1CC;
-}
+  color: #48D1CC !important; }
+
 .indigo {
-  background-color: #4B0082;
-}
+  background-color: #4B0082 !important; }
+
 .indigo-text {
-  color: #4B0082;
-}
+  color: #4B0082 !important; }
+
 .darkolivegreen {
-  background-color: #556B2F;
-}
+  background-color: #556B2F !important; }
+
 .darkolivegreen-text {
-  color: #556B2F;
-}
+  color: #556B2F !important; }
+
 .cadetblue {
-  background-color: #5F9EA0;
-}
+  background-color: #5F9EA0 !important; }
+
 .cadetblue-text {
-  color: #5F9EA0;
-}
+  color: #5F9EA0 !important; }
+
 .cornflowerblue {
-  background-color: #6495ED;
-}
+  background-color: #6495ED !important; }
+
 .cornflowerblue-text {
-  color: #6495ED;
-}
+  color: #6495ED !important; }
+
 .rebeccapurple {
-  background-color: #663399;
-}
+  background-color: #663399 !important; }
+
 .rebeccapurple-text {
-  color: #663399;
-}
+  color: #663399 !important; }
+
 .mediumaquamarine {
-  background-color: #66CDAA;
-}
+  background-color: #66CDAA !important; }
+
 .mediumaquamarine-text {
-  color: #66CDAA;
-}
+  color: #66CDAA !important; }
+
 .dimgrey {
-  background-color: #696969;
-}
+  background-color: #696969 !important; }
+
 .dimgrey-text {
-  color: #696969;
-}
+  color: #696969 !important; }
+
 .slateblue {
-  background-color: #6A5ACD;
-}
+  background-color: #6A5ACD !important; }
+
 .slateblue-text {
-  color: #6A5ACD;
-}
+  color: #6A5ACD !important; }
+
 .olivedrab {
-  background-color: #6B8E23;
-}
+  background-color: #6B8E23 !important; }
+
 .olivedrab-text {
-  color: #6B8E23;
-}
+  color: #6B8E23 !important; }
+
 .slategrey {
-  background-color: #708090;
-}
+  background-color: #708090 !important; }
+
 .slategrey-text {
-  color: #708090;
-}
+  color: #708090 !important; }
+
 .lightslategrey {
-  background-color: #778899;
-}
+  background-color: #778899 !important; }
+
 .lightslategrey-text {
-  color: #778899;
-}
+  color: #778899 !important; }
+
 .mediumslateblue {
-  background-color: #7B68EE;
-}
+  background-color: #7B68EE !important; }
+
 .mediumslateblue-text {
-  color: #7B68EE;
-}
+  color: #7B68EE !important; }
+
 .lawngreen {
-  background-color: #7CFC00;
-}
+  background-color: #7CFC00 !important; }
+
 .lawngreen-text {
-  color: #7CFC00;
-}
+  color: #7CFC00 !important; }
+
 .chartreuse {
-  background-color: #7FFF00;
-}
+  background-color: #7FFF00 !important; }
+
 .chartreuse-text {
-  color: #7FFF00;
-}
+  color: #7FFF00 !important; }
+
 .aquamarine {
-  background-color: #7FFFD4;
-}
+  background-color: #7FFFD4 !important; }
+
 .aquamarine-text {
-  color: #7FFFD4;
-}
+  color: #7FFFD4 !important; }
+
 .maroon {
-  background-color: #800000;
-}
+  background-color: #800000 !important; }
+
 .maroon-text {
-  color: #800000;
-}
+  color: #800000 !important; }
+
 .purple {
-  background-color: #800080;
-}
+  background-color: #800080 !important; }
+
 .purple-text {
-  color: #800080;
-}
+  color: #800080 !important; }
+
 .olive {
-  background-color: #808000;
-}
+  background-color: #808000 !important; }
+
 .olive-text {
-  color: #808000;
-}
+  color: #808000 !important; }
+
 .grey {
-  background-color: #808080;
-}
+  background-color: #808080 !important; }
+
 .grey-text {
-  color: #808080;
-}
+  color: #808080 !important; }
+
 .skyblue {
-  background-color: #87CEEB;
-}
+  background-color: #87CEEB !important; }
+
 .skyblue-text {
-  color: #87CEEB;
-}
+  color: #87CEEB !important; }
+
 .lightskyblue {
-  background-color: #87CEFA;
-}
+  background-color: #87CEFA !important; }
+
 .lightskyblue-text {
-  color: #87CEFA;
-}
+  color: #87CEFA !important; }
+
 .blueviolet {
-  background-color: #8A2BE2;
-}
+  background-color: #8A2BE2 !important; }
+
 .blueviolet-text {
-  color: #8A2BE2;
-}
+  color: #8A2BE2 !important; }
+
 .darkred {
-  background-color: #8B0000;
-}
+  background-color: #8B0000 !important; }
+
 .darkred-text {
-  color: #8B0000;
-}
+  color: #8B0000 !important; }
+
 .darkmagenta {
-  background-color: #8B008B;
-}
+  background-color: #8B008B !important; }
+
 .darkmagenta-text {
-  color: #8B008B;
-}
+  color: #8B008B !important; }
+
 .saddlebrown {
-  background-color: #8B4513;
-}
+  background-color: #8B4513 !important; }
+
 .saddlebrown-text {
-  color: #8B4513;
-}
+  color: #8B4513 !important; }
+
 .darkseagreen {
-  background-color: #8FBC8F;
-}
+  background-color: #8FBC8F !important; }
+
 .darkseagreen-text {
-  color: #8FBC8F;
-}
+  color: #8FBC8F !important; }
+
 .lightgreen {
-  background-color: #90EE90;
-}
+  background-color: #90EE90 !important; }
+
 .lightgreen-text {
-  color: #90EE90;
-}
+  color: #90EE90 !important; }
+
 .mediumpurple {
-  background-color: #9370DB;
-}
+  background-color: #9370DB !important; }
+
 .mediumpurple-text {
-  color: #9370DB;
-}
+  color: #9370DB !important; }
+
 .darkviolet {
-  background-color: #9400D3;
-}
+  background-color: #9400D3 !important; }
+
 .darkviolet-text {
-  color: #9400D3;
-}
+  color: #9400D3 !important; }
+
 .palegreen {
-  background-color: #98FB98;
-}
+  background-color: #98FB98 !important; }
+
 .palegreen-text {
-  color: #98FB98;
-}
+  color: #98FB98 !important; }
+
 .darkorchid {
-  background-color: #9932CC;
-}
+  background-color: #9932CC !important; }
+
 .darkorchid-text {
-  color: #9932CC;
-}
+  color: #9932CC !important; }
+
 .yellowgreen {
-  background-color: #9ACD32;
-}
+  background-color: #9ACD32 !important; }
+
 .yellowgreen-text {
-  color: #9ACD32;
-}
+  color: #9ACD32 !important; }
+
 .sienna {
-  background-color: #A0522D;
-}
+  background-color: #A0522D !important; }
+
 .sienna-text {
-  color: #A0522D;
-}
+  color: #A0522D !important; }
+
 .brown {
-  background-color: #A52A2A;
-}
+  background-color: #A52A2A !important; }
+
 .brown-text {
-  color: #A52A2A;
-}
+  color: #A52A2A !important; }
+
 .darkgrey {
-  background-color: #A9A9A9;
-}
+  background-color: #A9A9A9 !important; }
+
 .darkgrey-text {
-  color: #A9A9A9;
-}
+  color: #A9A9A9 !important; }
+
 .lightblue {
-  background-color: #ADD8E6;
-}
+  background-color: #ADD8E6 !important; }
+
 .lightblue-text {
-  color: #ADD8E6;
-}
+  color: #ADD8E6 !important; }
+
 .greenyellow {
-  background-color: #ADFF2F;
-}
+  background-color: #ADFF2F !important; }
+
 .greenyellow-text {
-  color: #ADFF2F;
-}
+  color: #ADFF2F !important; }
+
 .paleturquoise {
-  background-color: #AFEEEE;
-}
+  background-color: #AFEEEE !important; }
+
 .paleturquoise-text {
-  color: #AFEEEE;
-}
+  color: #AFEEEE !important; }
+
 .lightsteelblue {
-  background-color: #B0C4DE;
-}
+  background-color: #B0C4DE !important; }
+
 .lightsteelblue-text {
-  color: #B0C4DE;
-}
+  color: #B0C4DE !important; }
+
 .powderblue {
-  background-color: #B0E0E6;
-}
+  background-color: #B0E0E6 !important; }
+
 .powderblue-text {
-  color: #B0E0E6;
-}
+  color: #B0E0E6 !important; }
+
 .firebrick {
-  background-color: #B22222;
-}
+  background-color: #B22222 !important; }
+
 .firebrick-text {
-  color: #B22222;
-}
+  color: #B22222 !important; }
+
 .darkgoldenrod {
-  background-color: #B8860B;
-}
+  background-color: #B8860B !important; }
+
 .darkgoldenrod-text {
-  color: #B8860B;
-}
+  color: #B8860B !important; }
+
 .mediumorchid {
-  background-color: #BA55D3;
-}
+  background-color: #BA55D3 !important; }
+
 .mediumorchid-text {
-  color: #BA55D3;
-}
+  color: #BA55D3 !important; }
+
 .rosybrown {
-  background-color: #BC8F8F;
-}
+  background-color: #BC8F8F !important; }
+
 .rosybrown-text {
-  color: #BC8F8F;
-}
+  color: #BC8F8F !important; }
+
 .darkkhaki {
-  background-color: #BDB76B;
-}
+  background-color: #BDB76B !important; }
+
 .darkkhaki-text {
-  color: #BDB76B;
-}
+  color: #BDB76B !important; }
+
 .silver {
-  background-color: #C0C0C0;
-}
+  background-color: #C0C0C0 !important; }
+
 .silver-text {
-  color: #C0C0C0;
-}
+  color: #C0C0C0 !important; }
+
 .mediumvioletred {
-  background-color: #C71585;
-}
+  background-color: #C71585 !important; }
+
 .mediumvioletred-text {
-  color: #C71585;
-}
+  color: #C71585 !important; }
+
 .indianred {
-  background-color: #CD5C5C;
-}
+  background-color: #CD5C5C !important; }
+
 .indianred-text {
-  color: #CD5C5C;
-}
+  color: #CD5C5C !important; }
+
 .peru {
-  background-color: #CD853F;
-}
+  background-color: #CD853F !important; }
+
 .peru-text {
-  color: #CD853F;
-}
+  color: #CD853F !important; }
+
 .chocolate {
-  background-color: #D2691E;
-}
+  background-color: #D2691E !important; }
+
 .chocolate-text {
-  color: #D2691E;
-}
+  color: #D2691E !important; }
+
 .tan {
-  background-color: #D2B48C;
-}
+  background-color: #D2B48C !important; }
+
 .tan-text {
-  color: #D2B48C;
-}
+  color: #D2B48C !important; }
+
 .lightgrey {
-  background-color: #D3D3D3;
-}
+  background-color: #D3D3D3 !important; }
+
 .lightgrey-text {
-  color: #D3D3D3;
-}
+  color: #D3D3D3 !important; }
+
 .thistle {
-  background-color: #D8BFD8;
-}
+  background-color: #D8BFD8 !important; }
+
 .thistle-text {
-  color: #D8BFD8;
-}
+  color: #D8BFD8 !important; }
+
 .orchid {
-  background-color: #DA70D6;
-}
+  background-color: #DA70D6 !important; }
+
 .orchid-text {
-  color: #DA70D6;
-}
+  color: #DA70D6 !important; }
+
 .goldenrod {
-  background-color: #DAA520;
-}
+  background-color: #DAA520 !important; }
+
 .goldenrod-text {
-  color: #DAA520;
-}
+  color: #DAA520 !important; }
+
 .palevioletred {
-  background-color: #DB7093;
-}
+  background-color: #DB7093 !important; }
+
 .palevioletred-text {
-  color: #DB7093;
-}
+  color: #DB7093 !important; }
+
 .crimson {
-  background-color: #DC143C;
-}
+  background-color: #DC143C !important; }
+
 .crimson-text {
-  color: #DC143C;
-}
+  color: #DC143C !important; }
+
 .gainsboro {
-  background-color: #DCDCDC;
-}
+  background-color: #DCDCDC !important; }
+
 .gainsboro-text {
-  color: #DCDCDC;
-}
+  color: #DCDCDC !important; }
+
 .plum {
-  background-color: #DDA0DD;
-}
+  background-color: #DDA0DD !important; }
+
 .plum-text {
-  color: #DDA0DD;
-}
+  color: #DDA0DD !important; }
+
 .burlywood {
-  background-color: #DEB887;
-}
+  background-color: #DEB887 !important; }
+
 .burlywood-text {
-  color: #DEB887;
-}
+  color: #DEB887 !important; }
+
 .lightcyan {
-  background-color: #E0FFFF;
-}
+  background-color: #E0FFFF !important; }
+
 .lightcyan-text {
-  color: #E0FFFF;
-}
+  color: #E0FFFF !important; }
+
 .lavender {
-  background-color: #E6E6FA;
-}
+  background-color: #E6E6FA !important; }
+
 .lavender-text {
-  color: #E6E6FA;
-}
+  color: #E6E6FA !important; }
+
 .darksalmon {
-  background-color: #E9967A;
-}
+  background-color: #E9967A !important; }
+
 .darksalmon-text {
-  color: #E9967A;
-}
+  color: #E9967A !important; }
+
 .violet {
-  background-color: #EE82EE;
-}
+  background-color: #EE82EE !important; }
+
 .violet-text {
-  color: #EE82EE;
-}
+  color: #EE82EE !important; }
+
 .palegoldenrod {
-  background-color: #EEE8AA;
-}
+  background-color: #EEE8AA !important; }
+
 .palegoldenrod-text {
-  color: #EEE8AA;
-}
+  color: #EEE8AA !important; }
+
 .lightcoral {
-  background-color: #F08080;
-}
+  background-color: #F08080 !important; }
+
 .lightcoral-text {
-  color: #F08080;
-}
+  color: #F08080 !important; }
+
 .khaki {
-  background-color: #F0E68C;
-}
+  background-color: #F0E68C !important; }
+
 .khaki-text {
-  color: #F0E68C;
-}
+  color: #F0E68C !important; }
+
 .aliceblue {
-  background-color: #F0F8FF;
-}
+  background-color: #F0F8FF !important; }
+
 .aliceblue-text {
-  color: #F0F8FF;
-}
+  color: #F0F8FF !important; }
+
 .honeydew {
-  background-color: #F0FFF0;
-}
+  background-color: #F0FFF0 !important; }
+
 .honeydew-text {
-  color: #F0FFF0;
-}
+  color: #F0FFF0 !important; }
+
 .azure {
-  background-color: #F0FFFF;
-}
+  background-color: #F0FFFF !important; }
+
 .azure-text {
-  color: #F0FFFF;
-}
+  color: #F0FFFF !important; }
+
 .sandybrown {
-  background-color: #F4A460;
-}
+  background-color: #F4A460 !important; }
+
 .sandybrown-text {
-  color: #F4A460;
-}
+  color: #F4A460 !important; }
+
 .wheat {
-  background-color: #F5DEB3;
-}
+  background-color: #F5DEB3 !important; }
+
 .wheat-text {
-  color: #F5DEB3;
-}
+  color: #F5DEB3 !important; }
+
 .beige {
-  background-color: #F5F5DC;
-}
+  background-color: #F5F5DC !important; }
+
 .beige-text {
-  color: #F5F5DC;
-}
+  color: #F5F5DC !important; }
+
 .whitesmoke {
-  background-color: #F5F5F5;
-}
+  background-color: #F5F5F5 !important; }
+
 .whitesmoke-text {
-  color: #F5F5F5;
-}
+  color: #F5F5F5 !important; }
+
 .mintcream {
-  background-color: #F5FFFA;
-}
+  background-color: #F5FFFA !important; }
+
 .mintcream-text {
-  color: #F5FFFA;
-}
+  color: #F5FFFA !important; }
+
 .ghostwhite {
-  background-color: #F8F8FF;
-}
+  background-color: #F8F8FF !important; }
+
 .ghostwhite-text {
-  color: #F8F8FF;
-}
+  color: #F8F8FF !important; }
+
 .salmon {
-  background-color: #FA8072;
-}
+  background-color: #FA8072 !important; }
+
 .salmon-text {
-  color: #FA8072;
-}
+  color: #FA8072 !important; }
+
 .antiquewhite {
-  background-color: #FAEBD7;
-}
+  background-color: #FAEBD7 !important; }
+
 .antiquewhite-text {
-  color: #FAEBD7;
-}
+  color: #FAEBD7 !important; }
+
 .linen {
-  background-color: #FAF0E6;
-}
+  background-color: #FAF0E6 !important; }
+
 .linen-text {
-  color: #FAF0E6;
-}
+  color: #FAF0E6 !important; }
+
 .lightgoldenrodyellow {
-  background-color: #FAFAD2;
-}
+  background-color: #FAFAD2 !important; }
+
 .lightgoldenrodyellow-text {
-  color: #FAFAD2;
-}
+  color: #FAFAD2 !important; }
+
 .oldlace {
-  background-color: #FDF5E6;
-}
+  background-color: #FDF5E6 !important; }
+
 .oldlace-text {
-  color: #FDF5E6;
-}
+  color: #FDF5E6 !important; }
+
 .red {
-  background-color: #FF0000;
-}
+  background-color: #FF0000 !important; }
+
 .red-text {
-  color: #FF0000;
-}
+  color: #FF0000 !important; }
+
 .fuchsia {
-  background-color: #FF00FF;
-}
+  background-color: #FF00FF !important; }
+
 .fuchsia-text {
-  color: #FF00FF;
-}
+  color: #FF00FF !important; }
+
 .magenta {
-  background-color: #FF00FF;
-}
+  background-color: #FF00FF !important; }
+
 .magenta-text {
-  color: #FF00FF;
-}
+  color: #FF00FF !important; }
+
 .orangered {
-  background-color: #FF4500;
-}
+  background-color: #FF4500 !important; }
+
 .orangered-text {
-  color: #FF4500;
-}
+  color: #FF4500 !important; }
+
 .tomato {
-  background-color: #FF6347;
-}
+  background-color: #FF6347 !important; }
+
 .tomato-text {
-  color: #FF6347;
-}
+  color: #FF6347 !important; }
+
 .hotpink {
-  background-color: #FF69B4;
-}
+  background-color: #FF69B4 !important; }
+
 .hotpink-text {
-  color: #FF69B4;
-}
+  color: #FF69B4 !important; }
+
 .coral {
-  background-color: #FF7F50;
-}
+  background-color: #FF7F50 !important; }
+
 .coral-text {
-  color: #FF7F50;
-}
+  color: #FF7F50 !important; }
+
 .darkorange {
-  background-color: #FF8C00;
-}
+  background-color: #FF8C00 !important; }
+
 .darkorange-text {
-  color: #FF8C00;
-}
+  color: #FF8C00 !important; }
+
 .lightsalmon {
-  background-color: #FFA07A;
-}
+  background-color: #FFA07A !important; }
+
 .lightsalmon-text {
-  color: #FFA07A;
-}
+  color: #FFA07A !important; }
+
 .orange {
-  background-color: #FFA500;
-}
+  background-color: #FFA500 !important; }
+
 .orange-text {
-  color: #FFA500;
-}
+  color: #FFA500 !important; }
+
 .lightpink {
-  background-color: #FFB6C1;
-}
+  background-color: #FFB6C1 !important; }
+
 .lightpink-text {
-  color: #FFB6C1;
-}
+  color: #FFB6C1 !important; }
+
 .pink {
-  background-color: #FFC0CB;
-}
+  background-color: #FFC0CB !important; }
+
 .pink-text {
-  color: #FFC0CB;
-}
+  color: #FFC0CB !important; }
+
 .gold {
-  background-color: #FFD700;
-}
+  background-color: #FFD700 !important; }
+
 .gold-text {
-  color: #FFD700;
-}
+  color: #FFD700 !important; }
+
 .peachpuff {
-  background-color: #FFDAB9;
-}
+  background-color: #FFDAB9 !important; }
+
 .peachpuff-text {
-  color: #FFDAB9;
-}
+  color: #FFDAB9 !important; }
+
 .navajowhite {
-  background-color: #FFDEAD;
-}
+  background-color: #FFDEAD !important; }
+
 .navajowhite-text {
-  color: #FFDEAD;
-}
+  color: #FFDEAD !important; }
+
 .moccasin {
-  background-color: #FFE4B5;
-}
+  background-color: #FFE4B5 !important; }
+
 .moccasin-text {
-  color: #FFE4B5;
-}
+  color: #FFE4B5 !important; }
+
 .bisque {
-  background-color: #FFE4C4;
-}
+  background-color: #FFE4C4 !important; }
+
 .bisque-text {
-  color: #FFE4C4;
-}
+  color: #FFE4C4 !important; }
+
 .mistyrose {
-  background-color: #FFE4E1;
-}
+  background-color: #FFE4E1 !important; }
+
 .mistyrose-text {
-  color: #FFE4E1;
-}
+  color: #FFE4E1 !important; }
+
 .blanchedalmond {
-  background-color: #FFEBCD;
-}
+  background-color: #FFEBCD !important; }
+
 .blanchedalmond-text {
-  color: #FFEBCD;
-}
+  color: #FFEBCD !important; }
+
 .papayawhip {
-  background-color: #FFEFD5;
-}
+  background-color: #FFEFD5 !important; }
+
 .papayawhip-text {
-  color: #FFEFD5;
-}
+  color: #FFEFD5 !important; }
+
 .lavenderblush {
-  background-color: #FFF0F5;
-}
+  background-color: #FFF0F5 !important; }
+
 .lavenderblush-text {
-  color: #FFF0F5;
-}
+  color: #FFF0F5 !important; }
+
 .seashell {
-  background-color: #FFF5EE;
-}
+  background-color: #FFF5EE !important; }
+
 .seashell-text {
-  color: #FFF5EE;
-}
+  color: #FFF5EE !important; }
+
 .cornsilk {
-  background-color: #FFF8DC;
-}
+  background-color: #FFF8DC !important; }
+
 .cornsilk-text {
-  color: #FFF8DC;
-}
+  color: #FFF8DC !important; }
+
 .lemonchiffon {
-  background-color: #FFFACD;
-}
+  background-color: #FFFACD !important; }
+
 .lemonchiffon-text {
-  color: #FFFACD;
-}
+  color: #FFFACD !important; }
+
 .floralwhite {
-  background-color: #FFFAF0;
-}
+  background-color: #FFFAF0 !important; }
+
 .floralwhite-text {
-  color: #FFFAF0;
-}
+  color: #FFFAF0 !important; }
+
 .snow {
-  background-color: #FFFAFA;
-}
+  background-color: #FFFAFA !important; }
+
 .snow-text {
-  color: #FFFAFA;
-}
+  color: #FFFAFA !important; }
+
 .yellow {
-  background-color: #FFFF00;
-}
+  background-color: #FFFF00 !important; }
+
 .yellow-text {
-  color: #FFFF00;
-}
+  color: #FFFF00 !important; }
+
 .lightyellow {
-  background-color: #FFFFE0;
-}
+  background-color: #FFFFE0 !important; }
+
 .lightyellow-text {
-  color: #FFFFE0;
-}
+  color: #FFFFE0 !important; }
+
 .ivory {
-  background-color: #FFFFF0;
-}
+  background-color: #FFFFF0 !important; }
+
 .ivory-text {
-  color: #FFFFF0;
-}
+  color: #FFFFF0 !important; }
+
 .white {
-  background-color: #FFFFFF;
-}
+  background-color: #FFFFFF !important; }
+
 .white-text {
-  color: #FFFFFF;
-}
+  color: #FFFFFF !important; }

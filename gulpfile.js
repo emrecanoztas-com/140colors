@@ -1,24 +1,21 @@
-// DEFINE: Package(s).
+'use strict';
+
 var gulp = require('gulp');
-var less = require('gulp-less');
-var cssmin = require('gulp-cssmin');
+var sass = require('gulp-sass');
 var plumber = require('gulp-plumber');
+var cssmin = require('gulp-cssmin');
 var rename = require('gulp-rename');
 
-// TASK: Default
-gulp.task('default', function() {
-    console.log('Works fine!');
-});
-
-// TASK: LESS
-gulp.task('less', function() {
-    gulp.src('src/cool-colorz.less')
+gulp.task('sass', function() {
+    return (
+        gulp.src('src/cool-colorz.scss')
         .pipe(plumber())
-        .pipe(less())
+        .pipe(sass())
         .pipe(gulp.dest('dist'))
         .pipe(cssmin())
         .pipe(rename({
             suffix: '.min'
         }))
-        .pipe(gulp.dest('dist'));
+        .pipe(gulp.dest('dist'))
+    );
 });
