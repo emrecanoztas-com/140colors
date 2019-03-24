@@ -1,1 +1,1 @@
-# cool-colorz
+# 140colors

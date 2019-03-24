@@ -1,11 +1,14 @@
 @charset 'utf-8';
-@import '_variables';
+@import '_config.scss';
 
+// Renk değerleri oluşturuluyor (arkaplan ve text renkleri)
 @each $colorname, $colorcode in $colors {
+    // Arkaplan değerleri oluşturuluyor
     .#{$colorname} {
         background-color: $colorcode !important;
     }
 
+    // Text değerleri oluşturuluyor
     .#{$colorname}-text {
         color: $colorcode !important;
     }

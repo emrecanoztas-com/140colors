@@ -8,7 +8,7 @@ var rename = require('gulp-rename');
 
 gulp.task('sass', function() {
     return (
-        gulp.src('src/cool-colorz.scss')
+        gulp.src('src/140colors.scss')
         .pipe(plumber())
         .pipe(sass())
         .pipe(gulp.dest('dist'))

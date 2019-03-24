@@ -1,3 +1,11 @@
+@charset "UTF-8";
+/**
+ * 140colors
+ *
+ * AÇIKLAMA: 
+ * Web projelerinde kullanılmak üzere hazırlanmış; 140 adet rengi içermektedir.
+ * Bu renkler; tüm tarayıcılar tarafından tanınmaktadır.
+ */
 .black {
   background-color: #000000 !important; }
 

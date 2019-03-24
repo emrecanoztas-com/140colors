@@ -1,17 +1,17 @@
 {
-  "name": "cool-colorz",
-  "version": "1.0.0",
-  "description": "Color Palette",
-  "main": "index.js",
-  "repository": "https://github.com/emrecanoztas-com/cool-colorz",
-  "author": "Emre Can ÖZTAŞ <me@emrecanoztas.com>",
-  "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-cssmin": "^0.2.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2"
-  }
+    "name": "140colors",
+    "version": "1.0.0",
+    "description": "Color Palette",
+    "main": "index.js",
+    "repository": "https://github.com/emrecanoztas-com/140colors",
+    "author": "Emre Can ÖZTAŞ <me@emrecanoztas.com>",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-cssmin": "^0.2.0",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "^1.4.0",
+        "gulp-sass": "^4.0.2"
+    }
 }
